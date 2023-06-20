@@ -1,4 +1,18 @@
-header{
-    background-color: #494848;
+.titulo{
+    background-color: #444343;
     color: aliceblue;
+    display: flex;
+}
+body{
+    background-color:#4d4b4b;
+    color:white;
+}
+.Nome{
+    color: #ffffff;
+    font-size: 300%;
+    margin-left: 350px;
+}
+.logocecs{
+    height: 200px;
+    width: 200px;
 }
